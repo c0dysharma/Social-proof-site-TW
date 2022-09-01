@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@media (min-width: 764px) {
+  #tstm2{
+    margin-top: -2.5rem
+  }
+  
+}
